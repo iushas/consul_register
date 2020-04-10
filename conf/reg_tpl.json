@@ -1,0 +1,1 @@
+{"ConsulAddress": "http://consul地址", "ConsulTemplate": {"Tags": ["region","business","module"],"Check": { "DeregisterCriticalServiceAfter": "1400m","Interval": "60s","Timeout": "5s"		}			}}
